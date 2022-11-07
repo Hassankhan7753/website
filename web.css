@@ -1,0 +1,136 @@
+div{
+    float: left;
+}
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.r1{
+
+    width: 100%;
+    justify-content: space-between;
+   display: flex;
+    background-color:rgb(191, 198, 201);
+    padding: 10px 0px 10px 0px;
+
+}
+.r1 h2 a{
+    color:rgb(0, 182, 0);
+    text-decoration: none;
+    margin-left: 40px;
+    background-color:white;
+    padding: 10.5px;
+    border-radius: 10px;
+}
+.r1 ul{
+    display: flex;
+    list-style-type: none;
+    margin-right: 40px;
+
+}
+.r1 ul li{
+    margin-left: 40px;
+}
+.r2{ 
+   
+    width: 100%;
+    background-color:rgba(193, 214, 199, 0.788);
+    padding: 10px 0px 10px 0px;
+
+}
+.r2 ul{
+    margin-left:15%;
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+}
+.r2 ul li{
+    margin-left: 20px;
+
+}
+.r2 ul li a{
+    color: black;
+    text-decoration: none;
+}
+.r3{
+    width: 100%;
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGEiVvWiupxQCyF_ODg6tQ1veqkBtjfGFSnLzj-8d7NhveLpeZYPVExCdn_d7s482nGxZND9h4bwa_0Mas0lCkUjCejsbG3tSU81LHquWm14tbHJMLMLUXrUkMED3ymiLEStEEuEMeEKfCd7yb6_CmkMFPihh2vj7lE7CPQFDvoWuJhY9KO1RWZlkocw/s320/hk.jpg");
+  
+    background-size: cover;
+}
+.p1{
+    width: 48%;
+ margin-top: 3%;
+ margin-left: 2%;
+ color: red;
+ font-size:25px;
+}
+.pr1
+{
+    color: black;
+    margin-top: 2%;
+}
+.p2{
+margin-top: 7%;
+margin-left: 2%;
+    width: 48%;
+   
+}
+.img{
+    width:500px;    
+}
+.v1{
+    margin-bottom: 20%;
+  margin-left:58%;
+    background-repeat: no-repeat;
+}
+.r4{ 
+width: 100%;
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioRmmE1c3IooRnSHyxr8e7vmLIwTrZdcOK53D8PAHUMsliMw2k_-pjVSQrj7ThWTNlUXRmTYBF6NZBxISRKOPwO07jGD2sUp1m_dk0EmM9MaJc3eZf33n_Q7Ft1VfilucvScqdNvRBB4RATc09QPHr0z7wyF_o_SQo_BAtjKA41-L4Fi2OjC7R82RmEw/s320/Application-Software.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.r5{
+    margin-left: 5%;
+}
+.eightline1{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 40px 0px 40px 0px;
+    
+  }
+  .eightline1-1{
+    width: 60%;
+    display: flex;
+    margin: 0% 20% 0% 20%;
+    justify-content: space-between;
+    padding: 40px 0px 40px 0px;
+    border-bottom: 0.5px solid gray;
+  }
+  .eightline1-1 ul{
+    list-style-type: none;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .eightline1-1 ul li{
+    font-size: 17px;
+    margin-top: 20px;
+  }
+  .eightline1-1 ul li a{
+    color: gray;
+    text-decoration: none;
+  }
+  .eightline1-1 ul li a:hover{
+    color: white;
+    transition: 0.2s;
+  }
+
+table,th,td {
+    margin-top:3%;
+  border:1px solid black;
+  border-collapse: collapse;
+}
